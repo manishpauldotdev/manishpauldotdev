@@ -24,6 +24,6 @@
 ## 📈 Let's Build Together!  
 Have an idea? Let’s make it real!  
 
-📫 Reach out at **manishpaul.dev@gmail.com** or connect with me on [Whatsapp](https://wa.me/9863392550).  
+📫 Reach out at **manishpaul.dev@gmail.com** or connect with me on [WhatsApp](https://wa.me/9863392550).  
 
 
