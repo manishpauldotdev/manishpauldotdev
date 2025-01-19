@@ -1,16 +1,29 @@
-## Manish Paul 👋
+# 👋 Hi, I'm Manish Paul!  
 
-<!--
-**manishpauldotdev/manishpauldotdev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Flutter Student | Turning Ideas Into Apps**  
 
-Here are some ideas to get you started:
+## 🌟 About Me  
+- **Flutter Developer**: 4+ years of experience crafting cross-platform mobile apps for Android and iOS.  
+- **Innovator**: Passionate about transforming ideas into functional, beautiful, and scalable applications.  
+- **Startup Supporter**: Helping businesses launch their first mobile apps with speed and efficiency.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 My Toolbox  
+- **Languages & Frameworks**: Flutter, Dart  
+- **State Management**: Provider, Riverpod
+- **Local Storage**: Hive  
+- **APIs**: REST, Firebase  
+
+## 🌱 What I'm Building  
+- **BOL**: A classified application to list or buy anything.   
+
+## 🧩 I Can Help You With  
+- Building cross-platform mobile apps from scratch 📱  
+- Streamlining app architecture and state management 🛠️  
+- Fast, scalable, and user-focused app development 🚀  
+
+## 📈 Let's Build Together!  
+Have an idea? Let’s make it real!  
+
+📫 Reach out at **manishpaul.dev@gmail.com** or connect with me on [Whatsapp](https://wa.me/9863392550).  
+
+
