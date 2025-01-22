@@ -1,9 +1,9 @@
 # 👋 Hi, I'm Manish Paul!  
 
-🚀 **Flutter Student | Turning Ideas Into Apps**  
+🚀 **Student of Software Engineering | Flutter Developer | Turning Ideas Into Apps**  
 
 ## 🌟 About Me  
-- **Flutter Developer**: 4+ years of experience crafting cross-platform mobile apps for Android and iOS.  
+- **Flutter**: 4+ years of experience crafting cross-platform mobile apps for Android and iOS.  
 - **Innovator**: Passionate about transforming ideas into functional, beautiful, and scalable applications.  
 - **Startup Supporter**: Helping businesses launch their first mobile apps with speed and efficiency.  
 
