@@ -1,6 +1,6 @@
 # Hi, I'm Manish Paul
 
-Flutter Engineer with 4+ years of experience building and maintaining production-grade mobile applications for Android and iOS.
+Flutter Engineer with 5+ years of experience building and maintaining production-grade mobile applications for Android and iOS.
 
 ## About
 - 5+ years of hands-on experience with Flutter and Dart in real-world applications  
