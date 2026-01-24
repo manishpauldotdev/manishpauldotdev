@@ -33,4 +33,4 @@ Flutter Engineer with 4+ years of experience building and maintaining production
 
 ## Contact
 - Email: manishpaul.dev@gmail.com  
-- LinkedIn: [<LINKEDIN_URL>](https://www.linkedin.com/in/iamflutterdeveloper/)
+- LinkedIn: [My LinkedIn Profile](https://www.linkedin.com/in/iamflutterdeveloper/)
