@@ -1,29 +1,36 @@
-# 👋 Hi, I'm Manish Paul!  
+# Hi, I'm Manish Paul
 
-🚀 **Student of Software Engineering | Flutter Developer | Turning Ideas Into Apps**  
+Flutter Engineer with 4+ years of experience building and maintaining production-grade mobile applications for Android and iOS.
 
-## 🌟 About Me  
-- **Flutter**: 4+ years of experience crafting cross-platform mobile apps for Android and iOS.  
-- **Innovator**: Passionate about transforming ideas into functional, beautiful, and scalable applications.  
-- **Startup Supporter**: Helping businesses launch their first mobile apps with speed and efficiency.  
+## About
+- 5+ years of hands-on experience with Flutter and Dart in real-world applications  
+- Built consumer and enterprise apps used in production environments  
+- Strong focus on clean architecture, state management, and maintainable codebases  
+- Experience working across the full app lifecycle: development, testing, release, and post-launch support  
 
-## 🔧 My Toolbox  
-- **Languages & Frameworks**: Flutter, Dart  
-- **State Management**: Provider, Riverpod
+## Tech Stack
+- **Frameworks & Languages**: Flutter, Dart  
+- **State Management**: Provider, Riverpod  
+- **Backend & APIs**: Firebase, REST APIs  
 - **Local Storage**: Hive  
-- **APIs**: REST, Firebase  
+- **Tools**: Git, CI/CD pipelines, Android Studio, VS Code  
 
-## 🌱 What I'm Building  
-- **BOL**: A classified application to list or buy anything.   
+## Featured Work
+> Selected projects demonstrating production-level Flutter development
 
-## 🧩 I Can Help You With  
-- Building cross-platform mobile apps from scratch 📱  
-- Streamlining app architecture and state management 🛠️  
-- Fast, scalable, and user-focused app development 🚀  
+- **Retsguide**  
+  Consumer-facing Flutter application helping users in Denmark discover office hours and access free legal aid services  
+  - Flutter, Firebase  
+  - Clean, scalable architecture with clear separation of concerns  
+  - Integrated multiple APIs for legal aid data and service availability  
+  - Map-based discovery for locating nearby legal aid offices  
+  - Built and launched with end-to-end ownership, including requirements and feature prioritization  
 
-## 📈 Let's Build Together!  
-Have an idea? Let’s make it real!  
+## What I Focus On
+- Writing clean, readable, and testable Flutter code  
+- Building scalable mobile architectures for growing products  
+- Delivering reliable features in fast-moving product environments  
 
-📫 Reach out at **manishpaul.dev@gmail.com** or connect with me on [WhatsApp](https://wa.me/9863392550).  
-
-
+## Contact
+- Email: manishpaul.dev@gmail.com  
+- LinkedIn: [<LINKEDIN_URL>](https://www.linkedin.com/in/iamflutterdeveloper/)
